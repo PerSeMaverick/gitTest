@@ -3,3 +3,7 @@ git test
 git commit test
 
 git squash test in br2
+이전 변경 사항들 main branch로 텔레포트
+
+git rebase test in br3
+br3 branch의 시작점을 main branch의 최근 commit으로 이동
